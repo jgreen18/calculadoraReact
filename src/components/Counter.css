@@ -1,0 +1,58 @@
+.body { 
+border-style: double;
+width: 30%;
+margin: auto;
+text-align: right;
+margin-top: 3em;
+
+}
+.body h1{
+    overflow-y: auto;
+    
+}
+
+
+
+.divnum{
+    display: flex;
+   width: 100%;
+  
+    
+}
+
+.divnum button{
+    margin: 2px;
+    width: 25%;
+   
+}
+.divnum button:last-child{
+
+    background-color: yellow;
+   
+}
+.divnum2{
+    display: flex;
+   width: 100%;
+  
+    
+}
+
+.divnum2 button{
+
+    margin: 2px;
+    width: 25%;
+   
+}
+.divnum2 button:first-child{
+
+    margin-left: 2px;
+    margin-bottom: 2px;
+    width: 52%;
+   
+}
+.divnum2 button:last-child{
+
+    background-color: yellow;
+   
+}
+
